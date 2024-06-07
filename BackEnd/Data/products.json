@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Samsung",
+    "price": 250,
+    "description": "It was an Mobile",
+    "ratings": 4.5,
+    "images":[
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews": 15,
+    "reviews": []
+  },
+  {
+    "name": "Iphone",
+    "price": 250,
+    "description": "It was an Mobile called Iphone",
+    "ratings": 4.5,
+    "images":[
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews": 15,
+    "reviews": []
+  },
+  {
+    "name": "Samsung",
+    "price": 250,
+    "description": "It was an Mobile",
+    "ratings": 4.5,
+    "images":[
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews": 15,
+    "reviews": []
+  }
+]
